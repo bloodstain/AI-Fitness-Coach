@@ -1,0 +1,25 @@
+{
+  "name": "AI Fitness Coach",
+  "appid": "__UNI__AI_FITNESS_COACH",
+  "description": "AI 饮食分析、健身计划、打卡和 AI 私教",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true,
+    "nvueCompiler": "uni-app"
+  },
+  "h5": {
+    "title": "AI Fitness Coach",
+    "router": {
+      "mode": "hash"
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  }
+}
