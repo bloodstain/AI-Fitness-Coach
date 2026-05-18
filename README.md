@@ -1,6 +1,6 @@
-# AI Fitness Coach
 
 基于 `AI_Fitness_Coach_Product_Plan.md` 落地的 AI 饮食分析、拍照识别热量、AI 健身计划、打卡、运动数据和 AI 私教产品原型。
+<img width="3840" height="2160" alt="merged" src="https://github.com/user-attachments/assets/772591c4-a41f-4343-a487-34f685844888" />
 
 ## 技术栈
 
